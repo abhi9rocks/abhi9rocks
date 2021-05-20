@@ -1,5 +1,6 @@
-<h1> Hi there, I'm <a href https://www.linkedin.com/in/abhinavkrsingh774/>Abhinav</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1> Hey there, I'm <a href https://www.linkedin.com/in/abhinavkrsingh774/>Abhinav </a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <h2> I am an AI and ML practitioner!</h2>
+![Profile views](https://gpvc.arturio.dev/abhi9rocks) 
 
 ### Skills📜:
  Machine Learning, Artificial Intelligence, Data Analytics, Data Structures, Python, C++, JavaScript, Java  & Public Speaking
@@ -25,4 +26,4 @@ Tensorflow, Keras, NodeJS, CUDA, Express, Flask, Bootstrap , Mongo DB, Express, 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abhi9rocks)  
 
-![Profile views](https://gpvc.arturio.dev/abhi9rocks)  
+ 
