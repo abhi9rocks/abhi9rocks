@@ -1,5 +1,5 @@
 <h1> Hey there, I'm <a href https://www.linkedin.com/in/abhinavkrsingh774/>Abhinav </a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-<h2> I am an AI and ML practitioner!</h2>
+<h2> I am an Ai and ML practitioner!</h2>
 
 ### Skills📜:
  Machine Learning, Artificial Intelligence, Data Analytics, Data Structures, Python, C++, JavaScript, Java  & Public Speaking
