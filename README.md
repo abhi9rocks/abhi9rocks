@@ -5,7 +5,7 @@
  Machine Learning, Artificial Intelligence, Data Analytics, Data Structures, Python, C++, JavaScript, Java  & Public Speaking
  
 ### Frameworks👨‍💻:
-Tensorflow, Keras, NodeJS, Express, Flask, Bootstrap , Mongo DB, Express, React
+Tensorflow, Keras, NodeJS, CUDA, Express, Flask, Bootstrap , Mongo DB, Express, React
 
 ### Projects🤖:
 1. AI based COVID 19 Mask Detection Compliance.      
