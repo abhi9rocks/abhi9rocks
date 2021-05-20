@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi there 👋, I'm Abhinav
+#### I am an AI and ML practitioner!
 
-<!--
-**abhi9rocks/abhi9rocks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###### Skills📜:
+ Machine Learning, Artificial Intelligence, Data Analytics, Data Structures, Python, C++, JavaScript, Java  & Public Speaking
 
-Here are some ideas to get you started:
+###### Projects🤖:
+1. AI based COVID 19 Mask Detection Compliance.      
+2. Custom Object Detection by Masked RCNN using CUDA and cuDNN.
+3. Traffic Control System & Helmet ,Number Plate Recognition System
+4. Rust Detection using OpenCV and masking.
+5. Hand sign detection using Tensorflow and Keras.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###### Frameworks👨‍💻:
+Tensorflow, Keras, NodeJS, Express, Flask, Bootstrap , Mongo DB, Express, React
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abhi9rocks)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi9rocks)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=abhi9rocks&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhi9rocks)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abhi9rocks)  
+
+![Profile views](https://gpvc.arturio.dev/abhi9rocks)  
