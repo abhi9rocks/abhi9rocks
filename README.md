@@ -22,11 +22,9 @@ Tensorflow, Keras, NodeJS, CUDA, Express, Flask, Bootstrap , Mongo DB, Express, 
   <img src="https://github-readme-stats.vercel.app/api?username=abhi9rocks&show_icons=true&count_private=true&theme=dark" />
 </details>
  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abhi9rocks) 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhi9rocks&theme=react-dark&hide_border=true&area=true)
-
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abhi9rocks)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhi9rocks&theme=react-dark&hide_border=true&area=true) 
 
 ![Profile views](https://gpvc.arturio.dev/abhi9rocks) 
  
