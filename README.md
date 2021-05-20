@@ -16,10 +16,12 @@ Tensorflow, Keras, NodeJS, CUDA, Express, Flask, Bootstrap , Mongo DB, Express, 
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abhi9rocks)  
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abhi9rocks&show_icons=true)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abhi9rocks) 
+<details>
+  <summary>More...</summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhi9rocks&show_icons=true&count_private=true&theme=dark" />
+</details>
+ 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhi9rocks&theme=react-dark&hide_border=true&area=true)
 
