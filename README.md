@@ -12,8 +12,7 @@ Tensorflow, Keras, NodeJS, CUDA, Express, Flask, Bootstrap , Mongo DB, Express, 
 2. Custom Object Detection by Masked RCNN using CUDA and cuDNN.
 3. Traffic Control System & Helmet ,Number Plate Recognition System
 4. Rust Detection using OpenCV and masking.
-5. Hand sign detection using Tensorflow and Keras.
-
+5. Position Estimation Using Mediappe and posenet in python.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abhi9rocks) 
