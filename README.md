@@ -12,10 +12,9 @@ Tensorflow, Keras, NodeJS, CUDA, Express, Flask, Bootstrap , Mongo DB, Express, 
 2. Custom Object Detection by Masked RCNN using CUDA and cuDNN.
 3. Traffic Control System & Helmet ,Number Plate Recognition System
 4. Rust Detection using OpenCV and masking.
-5. Position Estimation Using Mediappe and posenet in python.
+5. Position Estimation Using Mediapipe and posenet in python.
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abhi9rocks) 
 <details>
   <summary>GitHub Stats...</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=abhi9rocks&show_icons=true&count_private=true&theme=dark" />
