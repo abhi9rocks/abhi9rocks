@@ -5,14 +5,13 @@
  Machine Learning, Artificial Intelligence, Data Analytics, Data Structures, Python, C++, JavaScript, Java  & Public Speaking
  
 ### 👨‍💻Frameworks:
-Tensorflow, Keras, NodeJS, CUDA, Express, Flask, Bootstrap , Mongo DB, Express, React
+Tensorflow, Darknet, OpenCV, NodeJS, CUDA, Express, Flask, Bootstrap , Mongo DB, Express, React
 
 ### 🤖Projects:
 1. AI based COVID 19 Mask Detection Compliance.      
 2. Custom Object Detection by Masked RCNN using CUDA and cuDNN.
-3. Traffic Control System & Helmet ,Number Plate Recognition System
-4. Rust Detection using OpenCV and masking.
-5. Position Estimation Using Mediapipe and posenet in python.
+3. Traffic Control System & Helmet, Number Plate Recognition System
+5. Multi-Position Estimation Using Mediapipe and posenet in python.
 
 
 <details>
@@ -22,7 +21,6 @@ Tensorflow, Keras, NodeJS, CUDA, Express, Flask, Bootstrap , Mongo DB, Express, 
  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abhi9rocks) 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhi9rocks&theme=react-dark&hide_border=true&area=true) 
 
 ![Profile views](https://gpvc.arturio.dev/abhi9rocks) 
  
