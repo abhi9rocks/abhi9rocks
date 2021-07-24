@@ -11,7 +11,7 @@ Tensorflow, Darknet, OpenCV, NodeJS, CUDA, Express, Flask, Bootstrap , Mongo DB,
 1. AI based COVID 19 Mask Detection Compliance.      
 2. Custom Object Detection by Masked RCNN using CUDA and cuDNN.
 3. Traffic Control System & Helmet, Number Plate Recognition System
-5. Multi-Position Estimation Using Mediapipe and posenet in python.
+4. Multi-Position Estimation Using Mediapipe and posenet in python.
 
 
 <details>
