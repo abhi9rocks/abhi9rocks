@@ -2,10 +2,10 @@
 <h2> I am an Ai and ML practitioner!</h2>
 
 ### 📜Skills:
- Machine Learning, Artificial Intelligence, Data Analytics, Data Structures, Python, C++, JavaScript, Java  & Public Speaking
+ Computer Vision,Machine Learning, Artificial Intelligence, Data Analytics, Data Structures, Python, C++, JavaScript, Java  & Public Speaking
  
 ### 👨‍💻Frameworks:
-Tensorflow, Darknet, OpenCV, NodeJS, CUDA, Express, Flask, Bootstrap , Mongo DB, Express, React
+Tensorflow, Darknet, YOLO, OpenCV, NodeJS, CUDA, Express, Flask, Bootstrap , Mongo DB, Express, React
 
 ### 🤖Projects:
 1. AI based COVID 19 Mask Detection Compliance.      
