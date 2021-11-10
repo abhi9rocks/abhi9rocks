@@ -2,7 +2,7 @@
 <h2> I am an Ai and ML practitioner!</h2>
 
 ### 📜Skills:
- Computer Vision,Machine Learning, Artificial Intelligence, Data Analytics, Data Structures, Python, C++, JavaScript, Java  & Public Speaking
+ Computer Vision, Machine Learning, Artificial Intelligence, Data Analytics, Data Structures, Python, C++, JavaScript, Java  & Public Speaking
  
 ### 👨‍💻Frameworks:
 Tensorflow, Darknet, YOLO, OpenCV, NodeJS, CUDA, Express, Flask, Bootstrap , Mongo DB, Express, React
@@ -12,6 +12,7 @@ Tensorflow, Darknet, YOLO, OpenCV, NodeJS, CUDA, Express, Flask, Bootstrap , Mon
 2. Custom Object Detection by Masked RCNN using CUDA and cuDNN.
 3. Traffic Control System & Helmet, Number Plate Recognition System
 4. Multi-Position Estimation Using Mediapipe and posenet in python.
+5. Custom Object Detection using TFJS deployed on web
 
 
 <details>
