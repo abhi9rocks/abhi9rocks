@@ -1,4 +1,4 @@
-<h1> Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1> Hey there! </h1>
 <h2> I am an Ai and ML practitioner!</h2>
 
 ### 📜Skills:
